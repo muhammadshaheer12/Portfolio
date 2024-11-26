@@ -88,10 +88,10 @@ const Service: NextPage = () => {
             Web Designing
             </h4>
           <p className="text-indigo-600 text-sm leading-relaxed">
-         Build a powerful online presence with our expert web design services.
-            I craft a visually stunning websites that not only captivate visitors 
-         but also provide a user experience, ensuring your business in the 
-         digital world. 
+           Build a powerful online presence with our expert web design services.
+           I craft a visually stunning websites that not only captivate visitors 
+           but also provide a user experience, ensuring your business in the 
+           digital world. 
                </p>
              </div>
             </div>
